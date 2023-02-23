@@ -1,0 +1,9 @@
+giraffe
+bird
+deer
+chicken
+dog
+cat
+mouse
+elephant
+frog
